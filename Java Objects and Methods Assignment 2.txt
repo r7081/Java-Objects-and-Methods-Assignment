@@ -1,0 +1,47 @@
+﻿1. How to create an object in java`?
+  Ans:There are several ways by which we can create objects of a class in java as we all know a class provides the blueprint for objects, you create an object from a class. This concept is unIer-rateI anI soDetiDes proves to be beneficial as this concept is bypasseI by Dany prograDDers anI soDetiDes even I ask from interview perceptive.
+Methods: 
+
+
+There are Many Different ways to create objects in Java. the help of programs to illustrate internal working by
+which we can create objects in Java
+By Using new keyword
+By Using new instance
+By Using clone(5 DethoH
+By Using Serialization;
+By Using newInstance(method of Constructor class)
+Let us Discuss theD one by one anI implement the saDe by appending a clean java program for the saDe.
+
+
+
+
+Method 1: Using now keyword
+
+
+Using the new keyword in java is the Most basic way to create an object. This is the Dost common way to create an object in java. Almost 99% of objects are createI in this way. y using this DethoI we can call any
+constructor we want to call (no argument or parameterized constructors.
+2. What is the use of a new keyword in Java`?
+Ans: The "new" keyword in Java is used to create an instance of an object. It allocates DeDory to an object anI returns a reference to the object created. It is useI with a constructor to create an object.
+ 3. What are the different types of variables in Java?
+Ans: Static Variables
+         Instance Variables 
+          Local Variables
+4. What is the difference between Instance variables and Local variables`?
+Ans:         Instance variable                                                           Local variables
+      They are defined inside the class but                          They are defined as a type of variable
+       outside the methods.                                                    Declared within programming blocks.
+      
+  These variables are destroyed when the object               These variables are destroyed when 
+       is destroyed.                                                                 the constructor is exited.
+
+
+  It can be accessed throughout the class.                              Its access is limited to the method 
+                                                                                                          by which it is created.
+
+
+5. In which area memory is allocated for instance variable and local variable?
+Ans: Instance variables are allocated in the heap and local variables are allocated in the stack.
+
+
+6. What is method overloading?
+Ans: Method overloading in Java is a feature that allows a class to have multiple methods with the same name but different parameters. The Java compiler distinguishes these methods by the number, type, and order of parameters. Overloading is used to provide multiple ways to call a method for different use cases, making code more readable and reusable.
